@@ -110,6 +110,7 @@ async function step4() {
 
                 //變數初始化
                 obj = {};
+                console.log(obj);
             }
         });
 }

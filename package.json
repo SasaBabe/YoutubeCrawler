@@ -23,5 +23,10 @@
   "bugs": {
     "url": "https://github.com/SasaBabe/YoutubeCrawler/issues"
   },
-  "homepage": "https://github.com/SasaBabe/YoutubeCrawler#readme"
+  "homepage": "https://github.com/SasaBabe/YoutubeCrawler#readme",
+  "dependencies": {
+    "jquery": "^3.4.1",
+    "jsdom": "^16.2.0",
+    "nightmare": "^3.0.2"
+  }
 }
